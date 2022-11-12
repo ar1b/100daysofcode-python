@@ -43,4 +43,4 @@ your_password = ''
 for char in password_final:
     your_password += char
 
-print(f"Your randomly generated password is {your_password}")
+print(f"Your randomly generated password is {your_password}, have a great day.")
